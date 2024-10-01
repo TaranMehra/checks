@@ -1,0 +1,1 @@
+I have to create this file only for to check that is main branch is made auto or not, if i use the gh cli it shows the main branch does not referrence
